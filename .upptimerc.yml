@@ -8,11 +8,13 @@ sites:
   - name: Yahoo
     url: https://tw.stock.yahoo.com/
   - name: Hacker News
-    url: https://news.ycombinator.com
+    url: https://news.ycombinator.com/
   - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://thissitedoesnotexist.koj.co/
   - name: CNN
     url: https://edition.cnn.com/
+  - name: BBC
+    url: https://www.bbc.com/news/
     
 
 status-website:
