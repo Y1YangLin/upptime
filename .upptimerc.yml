@@ -6,17 +6,17 @@ sites:
   - name: Shoppee
     url: https://shopee.tw/?https://shopee.tw/m/618&gclid=CjwKCAjw7vuUBhBUEiwAEdu2pLKTo2VehlBHE7G66oqJo2bxWsKRIFiCzKmtd7PV-n6mnpBiMa-8CBoCJBYQAvD_BwE#mall
   - name: Yahoo
-    url: https://tw.stock.yahoo.com/
+    url: https://tw.stock.yahoo.com
   - name: Hacker News
-    url: https://news.ycombinator.com/
+    url: https://news.ycombinator.com
   - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co/
+    url: https://thissitedoesnotexist.koj.co
   - name: CNN
-    url: https://edition.cnn.com/
+    url: https://edition.cnn.com
   - name: BBC
-    url: https://www.bbc.com/news/
+    url: https://www.bbc.com/news
   - name: MOMO
-    url: https://www.momoshop.com.tw/main/Main.jsp/
+    url: https://www.momoshop.com.tw/main/Main.jsp
     
 
 status-website:
