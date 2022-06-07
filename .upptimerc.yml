@@ -16,7 +16,7 @@ sites:
   - name: BBC
     url: https://www.bbc.com/news/
   - name: MOMO
-    url: https://www.momoshop.com.tw/main/Main.jsp
+    url: https://www.momoshop.com.tw/main/Main.jsp/
     
 
 status-website:
