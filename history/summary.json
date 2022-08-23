@@ -4,19 +4,19 @@
     "url": "https://shopee.tw/?https://shopee.tw/m/618&gclid=CjwKCAjw7vuUBhBUEiwAEdu2pLKTo2VehlBHE7G66oqJo2bxWsKRIFiCzKmtd7PV-n6mnpBiMa-8CBoCJBYQAvD_BwE#mall",
     "icon": "https://favicons.githubusercontent.com/shopee.tw",
     "slug": "shoppee",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1187,
-    "timeDay": 1139,
-    "timeWeek": 1570,
-    "timeMonth": 1224,
-    "timeYear": 1187,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.02%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.96%",
+    "time": 1193,
+    "timeDay": 1389,
+    "timeWeek": 1579,
+    "timeMonth": 1237,
+    "timeYear": 1193,
     "dailyMinutesDown": {
-      "2022-08-23": 1
+      "2022-08-23": 43
     }
   },
   {
