@@ -4,10 +4,10 @@
     "url": "https://shopee.tw/?https://shopee.tw/m/618&gclid=CjwKCAjw7vuUBhBUEiwAEdu2pLKTo2VehlBHE7G66oqJo2bxWsKRIFiCzKmtd7PV-n6mnpBiMa-8CBoCJBYQAvD_BwE#mall",
     "icon": "https://favicons.githubusercontent.com/shopee.tw",
     "slug": "shoppee",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1187,
@@ -15,7 +15,9 @@
     "timeWeek": 1570,
     "timeMonth": 1224,
     "timeYear": 1187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-23": 1
+    }
   },
   {
     "name": "Yahoo",
