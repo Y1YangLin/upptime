@@ -24,19 +24,19 @@
     "url": "https://tw.stock.yahoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/tw.stock.yahoo.com.ico",
     "slug": "yahoo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "95.39%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.96%",
     "time": 1405,
-    "timeDay": 1829,
-    "timeWeek": 1526,
-    "timeMonth": 1384,
+    "timeDay": 1621,
+    "timeWeek": 1512,
+    "timeMonth": 1385,
     "timeYear": 1405,
     "dailyMinutesDown": {
-      "2022-10-06": 0
+      "2022-10-06": 66
     }
   },
   {
