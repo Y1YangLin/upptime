@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1319,
-    "timeDay": 899,
-    "timeWeek": 1205,
-    "timeMonth": 1181,
+    "timeDay": 1411,
+    "timeWeek": 1239,
+    "timeMonth": 1191,
     "timeYear": 1319,
     "dailyMinutesDown": {
       "2022-08-23": 43
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1406,
-    "timeDay": 1155,
-    "timeWeek": 1501,
-    "timeMonth": 1443,
-    "timeYear": 1406,
+    "time": 1404,
+    "timeDay": 1097,
+    "timeWeek": 1436,
+    "timeMonth": 1430,
+    "timeYear": 1404,
     "dailyMinutesDown": {
       "2022-10-06": 66
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 313,
-    "timeDay": 250,
-    "timeWeek": 285,
-    "timeMonth": 320,
+    "timeDay": 388,
+    "timeWeek": 277,
+    "timeMonth": 319,
     "timeYear": 313,
     "dailyMinutesDown": {
       "2022-07-31": 16
@@ -89,8 +89,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 138,
-    "timeWeek": 130,
+    "timeDay": 67,
+    "timeWeek": 120,
     "timeMonth": 100,
     "timeYear": 98,
     "dailyMinutesDown": {}
@@ -107,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 321,
-    "timeDay": 259,
-    "timeWeek": 219,
-    "timeMonth": 246,
+    "timeDay": 231,
+    "timeWeek": 196,
+    "timeMonth": 237,
     "timeYear": 321,
     "dailyMinutesDown": {}
   },
@@ -120,17 +120,16 @@
     "slug": "momo",
     "status": "up",
     "uptime": "98.42%",
-    "uptimeDay": "92.98%",
-    "uptimeWeek": "86.20%",
-    "uptimeMonth": "91.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "86.89%",
+    "uptimeMonth": "91.74%",
     "uptimeYear": "98.42%",
-    "time": 11302,
-    "timeDay": 9980,
-    "timeWeek": 11583,
-    "timeMonth": 12840,
-    "timeYear": 11302,
+    "time": 11306,
+    "timeDay": 16987,
+    "timeWeek": 11984,
+    "timeMonth": 12929,
+    "timeYear": 11306,
     "dailyMinutesDown": {
-      "2022-12-10": 13,
       "2022-12-09": 124,
       "2022-12-08": 15,
       "2022-12-07": 188,
@@ -168,7 +167,8 @@
       "2022-09-03": 29,
       "2022-08-26": 18,
       "2022-08-25": 21,
-      "2022-08-22": 19
+      "2022-08-22": 19,
+      "2022-08-21": 29
     }
   }
 ]
