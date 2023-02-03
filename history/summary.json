@@ -11,9 +11,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 1281,
-    "timeDay": 1280,
-    "timeWeek": 1248,
-    "timeMonth": 1169,
+    "timeDay": 1231,
+    "timeWeek": 1231,
+    "timeMonth": 1180,
     "timeYear": 1281,
     "dailyMinutesDown": {
       "2023-01-25": 30,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1421,
-    "timeDay": 1389,
-    "timeWeek": 1394,
-    "timeMonth": 1485,
-    "timeYear": 1421,
+    "time": 1422,
+    "timeDay": 1526,
+    "timeWeek": 1413,
+    "timeMonth": 1480,
+    "timeYear": 1422,
     "dailyMinutesDown": {
       "2022-10-06": 66
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 85,
-    "timeWeek": 247,
-    "timeMonth": 295,
-    "timeYear": 309,
+    "time": 308,
+    "timeDay": 132,
+    "timeWeek": 228,
+    "timeMonth": 284,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2022-07-31": 16
     }
@@ -90,8 +90,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 48,
-    "timeWeek": 89,
+    "timeDay": 112,
+    "timeWeek": 100,
     "timeMonth": 102,
     "timeYear": 97,
     "dailyMinutesDown": {}
@@ -108,9 +108,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 320,
-    "timeDay": 105,
-    "timeWeek": 453,
-    "timeMonth": 305,
+    "timeDay": 394,
+    "timeWeek": 496,
+    "timeMonth": 310,
     "timeYear": 320,
     "dailyMinutesDown": {}
   },
@@ -121,17 +121,16 @@
     "slug": "momo",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "96.04%",
-    "uptimeWeek": "96.47%",
-    "uptimeMonth": "96.16%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.85%",
+    "uptimeMonth": "96.19%",
     "uptimeYear": "99.23%",
-    "time": 10929,
-    "timeDay": 5995,
-    "timeWeek": 9201,
-    "timeMonth": 10023,
-    "timeYear": 10929,
+    "time": 10936,
+    "timeDay": 8929,
+    "timeWeek": 9922,
+    "timeMonth": 10024,
+    "timeYear": 10936,
     "dailyMinutesDown": {
-      "2023-02-02": 11,
       "2023-02-01": 46,
       "2023-01-31": 64,
       "2023-01-30": 87,
@@ -175,7 +174,7 @@
       "2022-12-14": 106,
       "2022-12-13": 66,
       "2022-12-12": 114,
-      "2022-12-11": 20
+      "2022-12-11": 44
     }
   }
 ]
