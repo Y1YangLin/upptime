@@ -119,12 +119,12 @@
     "url": "https://www.momoshop.com.tw/main/Main.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.momoshop.com.tw.ico",
     "slug": "momo",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "90.77%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "90.75%",
     "uptimeWeek": "96.06%",
     "uptimeMonth": "96.04%",
-    "uptimeYear": "99.23%",
+    "uptimeYear": "99.24%",
     "time": 11005,
     "timeDay": 17668,
     "timeWeek": 11914,
@@ -173,8 +173,7 @@
       "2022-12-16": 17,
       "2022-12-15": 42,
       "2022-12-14": 106,
-      "2022-12-13": 66,
-      "2022-12-12": 30
+      "2022-12-13": 66
     }
   }
 ]
