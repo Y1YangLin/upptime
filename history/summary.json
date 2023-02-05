@@ -11,9 +11,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 1283,
-    "timeDay": 1622,
-    "timeWeek": 1257,
-    "timeMonth": 1203,
+    "timeDay": 1295,
+    "timeWeek": 1311,
+    "timeMonth": 1217,
     "timeYear": 1283,
     "dailyMinutesDown": {
       "2023-01-25": 30,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1422,
-    "timeDay": 1566,
-    "timeWeek": 1391,
-    "timeMonth": 1486,
-    "timeYear": 1422,
+    "time": 1423,
+    "timeDay": 1677,
+    "timeWeek": 1434,
+    "timeMonth": 1498,
+    "timeYear": 1423,
     "dailyMinutesDown": {
       "2022-10-06": 66
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 456,
-    "timeWeek": 253,
-    "timeMonth": 294,
-    "timeYear": 309,
+    "time": 308,
+    "timeDay": 248,
+    "timeWeek": 263,
+    "timeMonth": 298,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2022-07-31": 16
     }
@@ -90,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 58,
-    "timeWeek": 90,
-    "timeMonth": 101,
+    "timeDay": 160,
+    "timeWeek": 97,
+    "timeMonth": 100,
     "timeYear": 97,
     "dailyMinutesDown": {}
   },
@@ -108,9 +108,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 319,
-    "timeDay": 144,
-    "timeWeek": 499,
-    "timeMonth": 295,
+    "timeDay": 270,
+    "timeWeek": 513,
+    "timeMonth": 300,
     "timeYear": 319,
     "dailyMinutesDown": {}
   },
@@ -119,18 +119,19 @@
     "url": "https://www.momoshop.com.tw/main/Main.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.momoshop.com.tw.ico",
     "slug": "momo",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "91.11%",
-    "uptimeWeek": "95.40%",
-    "uptimeMonth": "95.82%",
-    "uptimeYear": "99.24%",
-    "time": 11031,
-    "timeDay": 13686,
-    "timeWeek": 12023,
-    "timeMonth": 10382,
-    "timeYear": 11031,
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "94.77%",
+    "uptimeWeek": "95.62%",
+    "uptimeMonth": "95.87%",
+    "uptimeYear": "99.25%",
+    "time": 11018,
+    "timeDay": 6794,
+    "timeWeek": 12031,
+    "timeMonth": 10432,
+    "timeYear": 11018,
     "dailyMinutesDown": {
+      "2023-02-05": 0,
       "2023-02-04": 113,
       "2023-02-03": 133,
       "2023-02-01": 46,
@@ -173,7 +174,7 @@
       "2022-12-22": 59,
       "2022-12-16": 17,
       "2022-12-15": 42,
-      "2022-12-14": 74
+      "2022-12-14": 50
     }
   }
 ]
