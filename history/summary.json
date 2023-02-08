@@ -11,9 +11,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 1282,
-    "timeDay": 1166,
-    "timeWeek": 1268,
-    "timeMonth": 1226,
+    "timeDay": 1235,
+    "timeWeek": 1282,
+    "timeMonth": 1234,
     "timeYear": 1282,
     "dailyMinutesDown": {
       "2023-01-25": 30,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1424,
-    "timeDay": 1359,
-    "timeWeek": 1473,
-    "timeMonth": 1500,
-    "timeYear": 1424,
+    "time": 1423,
+    "timeDay": 1096,
+    "timeWeek": 1467,
+    "timeMonth": 1484,
+    "timeYear": 1423,
     "dailyMinutesDown": {
       "2022-10-06": 66
     }
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 152,
-    "timeWeek": 229,
-    "timeMonth": 290,
+    "timeDay": 453,
+    "timeWeek": 259,
+    "timeMonth": 301,
     "timeYear": 308,
     "dailyMinutesDown": {
       "2022-07-31": 16
@@ -91,8 +91,8 @@
     "uptimeYear": "100.00%",
     "time": 97,
     "timeDay": 44,
-    "timeWeek": 100,
-    "timeMonth": 99,
+    "timeWeek": 85,
+    "timeMonth": 97,
     "timeYear": 97,
     "dailyMinutesDown": {}
   },
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 100,
-    "timeWeek": 371,
-    "timeMonth": 286,
-    "timeYear": 318,
+    "time": 317,
+    "timeDay": 151,
+    "timeWeek": 187,
+    "timeMonth": 285,
+    "timeYear": 317,
     "dailyMinutesDown": {}
   },
   {
@@ -121,17 +121,17 @@
     "slug": "momo",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "92.12%",
-    "uptimeWeek": "94.00%",
-    "uptimeMonth": "95.58%",
+    "uptimeDay": "92.89%",
+    "uptimeWeek": "94.11%",
+    "uptimeMonth": "95.61%",
     "uptimeYear": "99.25%",
-    "time": 11034,
-    "timeDay": 7893,
-    "timeWeek": 11864,
-    "timeMonth": 10364,
-    "timeYear": 11034,
+    "time": 11022,
+    "timeDay": 8014,
+    "timeWeek": 11486,
+    "timeMonth": 10292,
+    "timeYear": 11022,
     "dailyMinutesDown": {
-      "2023-02-07": 113,
+      "2023-02-07": 102,
       "2023-02-06": 115,
       "2023-02-05": 87,
       "2023-02-04": 113,
@@ -171,7 +171,7 @@
       "2022-12-27": 97,
       "2022-12-26": 47,
       "2022-12-25": 77,
-      "2022-12-24": 29
+      "2022-12-24": 52
     }
   }
 ]
