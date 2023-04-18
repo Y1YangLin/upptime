@@ -4,19 +4,19 @@
     "url": "https://shopee.tw/?https://shopee.tw/m/618&gclid=CjwKCAjw7vuUBhBUEiwAEdu2pLKTo2VehlBHE7G66oqJo2bxWsKRIFiCzKmtd7PV-n6mnpBiMa-8CBoCJBYQAvD_BwE#mall",
     "icon": "https://icons.duckduckgo.com/ip3/shopee.tw.ico",
     "slug": "shoppee",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 1512,
-    "timeDay": 1930,
-    "timeWeek": 3251,
-    "timeMonth": 2838,
-    "timeYear": 1512,
+    "time": 1583,
+    "timeDay": 12572,
+    "timeWeek": 5747,
+    "timeMonth": 3475,
+    "timeYear": 1583,
     "dailyMinutesDown": {
-      "2023-04-18": 0,
+      "2023-04-18": 12,
       "2023-01-25": 30,
       "2022-08-23": 43
     }
@@ -124,12 +124,12 @@
     "url": "https://www.momoshop.com.tw/main/Main.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.momoshop.com.tw.ico",
     "slug": "momo",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "96.63%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "96.61%",
     "uptimeWeek": "97.36%",
-    "uptimeMonth": "93.32%",
-    "uptimeYear": "99.35%",
+    "uptimeMonth": "93.37%",
+    "uptimeYear": "99.36%",
     "time": 10792,
     "timeDay": 4829,
     "timeWeek": 6297,
@@ -161,8 +161,7 @@
       "2023-03-26": 194,
       "2023-03-25": 71,
       "2023-03-24": 90,
-      "2023-03-23": 62,
-      "2023-03-21": 23
+      "2023-03-23": 62
     }
   }
 ]
