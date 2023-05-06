@@ -25,9 +25,9 @@
     "url": "https://tw.stock.yahoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/tw.stock.yahoo.com.ico",
     "slug": "yahoo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -37,6 +37,7 @@
     "timeMonth": 1489,
     "timeYear": 1444,
     "dailyMinutesDown": {
+      "2023-05-06": 0,
       "2023-03-10": 20,
       "2022-10-06": 66
     }
