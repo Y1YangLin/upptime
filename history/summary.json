@@ -92,18 +92,16 @@
     "slug": "cnn",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
     "timeDay": 146,
     "timeWeek": 114,
     "timeMonth": 118,
     "timeYear": 100,
-    "dailyMinutesDown": {
-      "2023-06-30": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BBC",
@@ -128,16 +126,16 @@
     "url": "https://www.momoshop.com.tw/main/Main.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.momoshop.com.tw.ico",
     "slug": "momo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "94.32%",
+    "uptimeDay": "95.97%",
     "uptimeWeek": "96.07%",
     "uptimeMonth": "97.21%",
     "uptimeYear": "99.50%",
     "time": 9747,
-    "timeDay": 6924,
-    "timeWeek": 5463,
-    "timeMonth": 5491,
+    "timeDay": 7861,
+    "timeWeek": 5485,
+    "timeMonth": 5508,
     "timeYear": 9682,
     "dailyMinutesDown": {
       "2023-06-30": 58,
@@ -192,8 +190,7 @@
       "2023-04-13": 66,
       "2023-04-12": 47,
       "2023-04-11": 106,
-      "2023-04-10": 140,
-      "2023-04-09": 15
+      "2023-04-10": 140
     }
   }
 ]
