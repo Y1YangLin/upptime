@@ -12,9 +12,9 @@
     "uptimeYear": "99.99%",
     "time": 1554,
     "timeDay": 1185,
-    "timeWeek": 1242,
-    "timeMonth": 1362,
-    "timeYear": 1627,
+    "timeWeek": 1232,
+    "timeMonth": 1344,
+    "timeYear": 1629,
     "dailyMinutesDown": {
       "2023-01-25": 30,
       "2022-08-23": 43
@@ -33,8 +33,8 @@
     "uptimeYear": "99.98%",
     "time": 1463,
     "timeDay": 1382,
-    "timeWeek": 2144,
-    "timeMonth": 1670,
+    "timeWeek": 2204,
+    "timeMonth": 1675,
     "timeYear": 1467,
     "dailyMinutesDown": {
       "2023-05-06": 42,
@@ -55,9 +55,9 @@
     "uptimeYear": "99.96%",
     "time": 304,
     "timeDay": 460,
-    "timeWeek": 358,
-    "timeMonth": 301,
-    "timeYear": 303,
+    "timeWeek": 371,
+    "timeMonth": 296,
+    "timeYear": 304,
     "dailyMinutesDown": {
       "2023-07-18": 22,
       "2023-06-07": 17,
@@ -98,8 +98,8 @@
     "uptimeYear": "100.00%",
     "time": 101,
     "timeDay": 85,
-    "timeWeek": 104,
-    "timeMonth": 104,
+    "timeWeek": 101,
+    "timeMonth": 105,
     "timeYear": 100,
     "dailyMinutesDown": {}
   },
@@ -116,8 +116,8 @@
     "uptimeYear": "100.00%",
     "time": 293,
     "timeDay": 510,
-    "timeWeek": 256,
-    "timeMonth": 248,
+    "timeWeek": 275,
+    "timeMonth": 247,
     "timeYear": 296,
     "dailyMinutesDown": {}
   },
@@ -127,18 +127,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.momoshop.com.tw.ico",
     "slug": "momo",
     "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "96.81%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "95.65%",
-    "uptimeYear": "99.37%",
+    "uptime": "99.45%",
+    "uptimeDay": "97.35%",
+    "uptimeWeek": "97.40%",
+    "uptimeMonth": "95.67%",
+    "uptimeYear": "99.36%",
     "time": 9379,
-    "timeDay": 4265,
-    "timeWeek": 8492,
-    "timeMonth": 6648,
-    "timeYear": 9274,
+    "timeDay": 4177,
+    "timeWeek": 8614,
+    "timeMonth": 6682,
+    "timeYear": 9271,
     "dailyMinutesDown": {
-      "2023-08-08": 46,
+      "2023-08-08": 38,
       "2023-08-06": 16,
       "2023-08-05": 41,
       "2023-08-04": 131,
@@ -191,7 +191,7 @@
       "2023-06-05": 54,
       "2023-06-03": 54,
       "2023-06-02": 86,
-      "2023-06-01": 50
+      "2023-06-01": 89
     }
   }
 ]
