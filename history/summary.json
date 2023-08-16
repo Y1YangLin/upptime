@@ -49,9 +49,9 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 304,
     "timeDay": 292,
@@ -59,7 +59,6 @@
     "timeMonth": 308,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2023-08-16": 13,
       "2023-07-18": 22,
       "2023-06-07": 17,
       "2023-05-22": 16,
@@ -127,18 +126,19 @@
     "url": "https://www.momoshop.com.tw/main/Main.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.momoshop.com.tw.ico",
     "slug": "momo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "98.80%",
+    "uptimeDay": "98.79%",
     "uptimeWeek": "98.74%",
     "uptimeMonth": "95.98%",
-    "uptimeYear": "99.36%",
+    "uptimeYear": "99.37%",
     "time": 9304,
     "timeDay": 6145,
     "timeWeek": 5822,
-    "timeMonth": 6795,
+    "timeMonth": 6794,
     "timeYear": 9178,
     "dailyMinutesDown": {
+      "2023-08-16": 0,
       "2023-08-15": 17,
       "2023-08-14": 20,
       "2023-08-12": 18,
@@ -197,7 +197,7 @@
       "2023-06-07": 28,
       "2023-06-05": 54,
       "2023-06-03": 54,
-      "2023-06-02": 35
+      "2023-06-02": 18
     }
   }
 ]
