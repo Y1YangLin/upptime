@@ -14,7 +14,7 @@
     "timeDay": 1130,
     "timeWeek": 1045,
     "timeMonth": 1121,
-    "timeYear": 1536,
+    "timeYear": 1537,
     "dailyMinutesDown": {
       "2023-01-25": 30
     }
@@ -34,7 +34,7 @@
     "timeDay": 1539,
     "timeWeek": 1554,
     "timeMonth": 1541,
-    "timeYear": 1494,
+    "timeYear": 1495,
     "dailyMinutesDown": {
       "2023-05-06": 42,
       "2023-03-10": 20
@@ -120,7 +120,7 @@
     "timeDay": 527,
     "timeWeek": 308,
     "timeMonth": 287,
-    "timeYear": 282,
+    "timeYear": 281,
     "dailyMinutesDown": {}
   },
   {
@@ -128,19 +128,20 @@
     "url": "https://www.momoshop.com.tw/main/Main.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.momoshop.com.tw.ico",
     "slug": "momo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "96.76%",
-    "uptimeMonth": "94.71%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "96.78%",
+    "uptimeMonth": "94.78%",
     "uptimeYear": "99.41%",
-    "time": 8880,
-    "timeDay": 8019,
-    "timeWeek": 7444,
-    "timeMonth": 7569,
-    "timeYear": 8816,
+    "time": 8876,
+    "timeDay": 8606,
+    "timeWeek": 7590,
+    "timeMonth": 7592,
+    "timeYear": 8819,
     "dailyMinutesDown": {
-      "2023-10-29": 20,
+      "2023-10-30": 0,
+      "2023-10-29": 18,
       "2023-10-28": 58,
       "2023-10-27": 41,
       "2023-10-26": 39,
