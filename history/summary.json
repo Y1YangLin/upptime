@@ -130,17 +130,17 @@
     "slug": "momo",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "93.29%",
-    "uptimeWeek": "97.11%",
-    "uptimeMonth": "96.51%",
-    "uptimeYear": "99.43%",
-    "time": 8874,
-    "timeDay": 9628,
-    "timeWeek": 7676,
-    "timeMonth": 6880,
-    "timeYear": 8793,
+    "uptimeDay": "89.11%",
+    "uptimeWeek": "96.37%",
+    "uptimeMonth": "96.38%",
+    "uptimeYear": "99.42%",
+    "time": 8879,
+    "timeDay": 9181,
+    "timeWeek": 7965,
+    "timeMonth": 6985,
+    "timeYear": 8799,
     "dailyMinutesDown": {
-      "2023-11-05": 105,
+      "2023-11-05": 121,
       "2023-11-04": 51,
       "2023-11-03": 38,
       "2023-11-02": 15,
@@ -175,7 +175,7 @@
       "2023-10-01": 120,
       "2023-09-30": 221,
       "2023-09-29": 331,
-      "2023-09-28": 93
+      "2023-09-28": 67
     }
   }
 ]
