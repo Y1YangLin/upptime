@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1489,
-    "timeDay": 1079,
-    "timeWeek": 1293,
-    "timeMonth": 1258,
-    "timeYear": 1533,
+    "timeDay": 1200,
+    "timeWeek": 1306,
+    "timeMonth": 1264,
+    "timeYear": 1532,
     "dailyMinutesDown": {
       "2023-01-25": 30
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
-    "time": 1471,
-    "timeDay": 1613,
-    "timeWeek": 1599,
-    "timeMonth": 1497,
+    "time": 1470,
+    "timeDay": 1551,
+    "timeWeek": 1555,
+    "timeMonth": 1499,
     "timeYear": 1499,
     "dailyMinutesDown": {
       "2023-11-16": 46,
@@ -53,9 +53,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.94%",
     "time": 302,
-    "timeDay": 83,
-    "timeWeek": 257,
-    "timeMonth": 299,
+    "timeDay": 408,
+    "timeWeek": 288,
+    "timeMonth": 298,
     "timeYear": 297,
     "dailyMinutesDown": {
       "2023-12-06": 23,
@@ -102,8 +102,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 140,
-    "timeWeek": 84,
+    "timeDay": 74,
+    "timeWeek": 87,
     "timeMonth": 73,
     "timeYear": 102,
     "dailyMinutesDown": {}
@@ -120,9 +120,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 1467,
-    "timeWeek": 428,
-    "timeMonth": 291,
+    "timeDay": 177,
+    "timeWeek": 439,
+    "timeMonth": 280,
     "timeYear": 270,
     "dailyMinutesDown": {}
   },
@@ -131,17 +131,17 @@
     "url": "https://www.momoshop.com.tw/main/Main.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.momoshop.com.tw.ico",
     "slug": "momo",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "97.34%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "97.33%",
     "uptimeWeek": "98.81%",
-    "uptimeMonth": "97.88%",
+    "uptimeMonth": "97.92%",
     "uptimeYear": "99.52%",
     "time": 8589,
-    "timeDay": 7520,
-    "timeWeek": 5827,
-    "timeMonth": 6631,
-    "timeYear": 8336,
+    "timeDay": 9449,
+    "timeWeek": 6477,
+    "timeMonth": 6750,
+    "timeYear": 8345,
     "dailyMinutesDown": {
       "2023-12-11": 39,
       "2023-12-10": 54,
@@ -197,7 +197,7 @@
       "2023-10-10": 76,
       "2023-10-09": 58,
       "2023-10-08": 20,
-      "2023-10-07": 84
+      "2023-10-07": 55
     }
   }
 ]
