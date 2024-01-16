@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1488,
-    "timeDay": 1177,
-    "timeWeek": 1165,
-    "timeMonth": 1283,
-    "timeYear": 1543,
+    "time": 1485,
+    "timeDay": 1409,
+    "timeWeek": 1199,
+    "timeMonth": 1238,
+    "timeYear": 1544,
     "dailyMinutesDown": {
       "2023-01-25": 30
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1484,
-    "timeDay": 1176,
-    "timeWeek": 1544,
-    "timeMonth": 1560,
+    "timeDay": 1214,
+    "timeWeek": 1484,
+    "timeMonth": 1549,
     "timeYear": 1506,
     "dailyMinutesDown": {
       "2023-11-16": 46,
@@ -53,9 +53,9 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.87%",
     "time": 351,
-    "timeDay": 145,
-    "timeWeek": 2299,
-    "timeMonth": 895,
+    "timeDay": 58,
+    "timeWeek": 2261,
+    "timeMonth": 894,
     "timeYear": 366,
     "dailyMinutesDown": {
       "2024-01-10": 130,
@@ -106,9 +106,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
-    "timeDay": 84,
+    "timeDay": 52,
     "timeWeek": 67,
-    "timeMonth": 82,
+    "timeMonth": 80,
     "timeYear": 101,
     "dailyMinutesDown": {}
   },
@@ -124,9 +124,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 176,
-    "timeWeek": 244,
-    "timeMonth": 254,
+    "timeDay": 110,
+    "timeWeek": 236,
+    "timeMonth": 250,
     "timeYear": 265,
     "dailyMinutesDown": {}
   },
@@ -137,17 +137,17 @@
     "slug": "momo",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "97.77%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "98.73%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "98.76%",
     "uptimeYear": "99.57%",
-    "time": 8209,
-    "timeDay": 7722,
-    "timeWeek": 6311,
-    "timeMonth": 6621,
+    "time": 8207,
+    "timeDay": 7539,
+    "timeWeek": 6236,
+    "timeMonth": 6530,
     "timeYear": 8031,
     "dailyMinutesDown": {
-      "2024-01-15": 32,
+      "2024-01-15": 20,
       "2024-01-13": 16,
       "2024-01-08": 43,
       "2024-01-07": 16,
@@ -203,7 +203,8 @@
       "2023-10-30": 118,
       "2023-10-29": 18,
       "2023-10-28": 58,
-      "2023-10-27": 41
+      "2023-10-27": 41,
+      "2023-10-26": 19
     }
   }
 ]
