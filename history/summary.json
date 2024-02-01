@@ -4,19 +4,19 @@
     "url": "https://shopee.tw/?https://shopee.tw/m/618&gclid=CjwKCAjw7vuUBhBUEiwAEdu2pLKTo2VehlBHE7G66oqJo2bxWsKRIFiCzKmtd7PV-n6mnpBiMa-8CBoCJBYQAvD_BwE#mall",
     "icon": "https://icons.duckduckgo.com/ip3/shopee.tw.ico",
     "slug": "shoppee",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1449,
-    "timeDay": 1076,
-    "timeWeek": 1133,
-    "timeMonth": 1155,
-    "timeYear": 1540,
+    "uptimeDay": "97.49%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
+    "time": 1448,
+    "timeDay": 898,
+    "timeWeek": 1082,
+    "timeMonth": 1141,
+    "timeYear": 1538,
     "dailyMinutesDown": {
-      "2024-02-01": 0
+      "2024-02-01": 36
     }
   },
   {
@@ -145,7 +145,7 @@
     "timeDay": 4938,
     "timeWeek": 8718,
     "timeMonth": 7099,
-    "timeYear": 7980,
+    "timeYear": 7977,
     "dailyMinutesDown": {
       "2024-01-29": 44,
       "2024-01-28": 16,
