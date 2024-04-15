@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1431,
-    "timeDay": 977,
-    "timeWeek": 1067,
-    "timeMonth": 1111,
-    "timeYear": 1331,
+    "timeDay": 1272,
+    "timeWeek": 1076,
+    "timeMonth": 1117,
+    "timeYear": 1324,
     "dailyMinutesDown": {
       "2024-02-01": 59
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1553,
-    "timeDay": 1040,
-    "timeWeek": 1540,
-    "timeMonth": 1572,
+    "timeDay": 1771,
+    "timeWeek": 1494,
+    "timeMonth": 1574,
     "timeYear": 1578,
     "dailyMinutesDown": {
       "2023-11-16": 46,
@@ -51,9 +51,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 345,
-    "timeDay": 92,
-    "timeWeek": 288,
+    "time": 344,
+    "timeDay": 352,
+    "timeWeek": 295,
     "timeMonth": 275,
     "timeYear": 365,
     "dailyMinutesDown": {
@@ -102,9 +102,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 33,
-    "timeWeek": 105,
-    "timeMonth": 89,
+    "timeDay": 79,
+    "timeWeek": 63,
+    "timeMonth": 90,
     "timeYear": 99,
     "dailyMinutesDown": {}
   },
@@ -120,9 +120,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 268,
-    "timeDay": 570,
+    "timeDay": 263,
     "timeWeek": 251,
-    "timeMonth": 269,
+    "timeMonth": 253,
     "timeYear": 269,
     "dailyMinutesDown": {}
   },
@@ -131,18 +131,19 @@
     "url": "https://www.momoshop.com.tw/main/Main.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.momoshop.com.tw.ico",
     "slug": "momo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "98.69%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "98.74%",
     "uptimeYear": "99.53%",
     "time": 7046,
-    "timeDay": 5339,
-    "timeWeek": 6227,
-    "timeMonth": 5054,
-    "timeYear": 6853,
+    "timeDay": 4603,
+    "timeWeek": 6238,
+    "timeMonth": 5032,
+    "timeYear": 6857,
     "dailyMinutesDown": {
+      "2024-04-15": 0,
       "2024-04-11": 18,
       "2024-04-10": 23,
       "2024-04-04": 153,
@@ -209,7 +210,7 @@
       "2023-11-25": 85,
       "2023-11-24": 18,
       "2023-11-23": 20,
-      "2023-11-22": 41
+      "2023-11-22": 20
     }
   }
 ]
