@@ -12,7 +12,7 @@
     "uptimeYear": "99.98%",
     "time": 1439,
     "timeDay": 754,
-    "timeWeek": 1099,
+    "timeWeek": 1081,
     "timeMonth": 1121,
     "timeYear": 1187,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
     "uptimeYear": "99.99%",
     "time": 1574,
     "timeDay": 1392,
-    "timeWeek": 1936,
+    "timeWeek": 1958,
     "timeMonth": 1680,
     "timeYear": 1604,
     "dailyMinutesDown": {
@@ -53,7 +53,7 @@
     "uptimeYear": "99.89%",
     "time": 354,
     "timeDay": 129,
-    "timeWeek": 226,
+    "timeWeek": 209,
     "timeMonth": 289,
     "timeYear": 378,
     "dailyMinutesDown": {
@@ -104,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 96,
     "timeDay": 39,
-    "timeWeek": 79,
+    "timeWeek": 78,
     "timeMonth": 76,
     "timeYear": 94,
     "dailyMinutesDown": {}
@@ -122,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 266,
     "timeDay": 93,
-    "timeWeek": 132,
+    "timeWeek": 128,
     "timeMonth": 284,
     "timeYear": 263,
     "dailyMinutesDown": {}
@@ -132,18 +132,19 @@
     "url": "https://www.momoshop.com.tw/main/Main.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.momoshop.com.tw.ico",
     "slug": "momo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "63.45%",
-    "uptimeWeek": "89.58%",
+    "uptimeDay": "63.43%",
+    "uptimeWeek": "89.57%",
     "uptimeMonth": "79.65%",
     "uptimeYear": "98.18%",
     "time": 7096,
-    "timeDay": 8098,
-    "timeWeek": 8917,
+    "timeDay": 6101,
+    "timeWeek": 9115,
     "timeMonth": 9974,
     "timeYear": 7139,
     "dailyMinutesDown": {
+      "2024-05-28": 0,
       "2024-05-27": 527,
       "2024-05-26": 401,
       "2024-05-25": 100,
@@ -178,7 +179,7 @@
       "2024-04-03": 19,
       "2024-03-28": 67,
       "2024-03-27": 120,
-      "2024-03-26": 24
+      "2024-03-26": 7
     }
   }
 ]
