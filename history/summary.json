@@ -47,9 +47,9 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 352,
     "timeDay": 159,
@@ -57,7 +57,6 @@
     "timeMonth": 272,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2024-05-29": 12,
       "2024-04-26": 18,
       "2024-04-23": 19,
       "2024-01-10": 130,
@@ -133,13 +132,13 @@
     "url": "https://www.momoshop.com.tw/main/Main.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.momoshop.com.tw.ico",
     "slug": "momo",
-    "status": "up",
-    "uptime": "99.05%",
-    "uptimeDay": "72.78%",
+    "status": "down",
+    "uptime": "99.06%",
+    "uptimeDay": "73.25%",
     "uptimeWeek": "84.30%",
     "uptimeMonth": "78.38%",
-    "uptimeYear": "98.12%",
-    "time": 7105,
+    "uptimeYear": "98.14%",
+    "time": 7107,
     "timeDay": 8090,
     "timeWeek": 8999,
     "timeMonth": 9777,
@@ -176,8 +175,7 @@
       "2024-04-16": 17,
       "2024-04-15": 22,
       "2024-04-11": 18,
-      "2024-04-10": 23,
-      "2024-04-04": 133
+      "2024-04-10": 23
     }
   }
 ]
