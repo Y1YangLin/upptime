@@ -1,7 +1,7 @@
 url: https://tw.stock.yahoo.com
-status: down
-code: 503
-responseTime: 9479
-lastUpdated: 2024-06-05T07:18:14.839Z
+status: up
+code: 200
+responseTime: 1451
+lastUpdated: 2024-06-05T07:30:08.572Z
 startTime: 2022-06-07T07:30:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
