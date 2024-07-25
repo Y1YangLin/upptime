@@ -1,7 +1,7 @@
 url: https://www.momoshop.com.tw/main/Main.jsp
-status: up
-code: 200
-responseTime: 4785
-lastUpdated: 2024-07-24T23:09:46.439Z
+status: down
+code: 502
+responseTime: 915
+lastUpdated: 2024-07-25T06:55:35.157Z
 startTime: 2022-06-07T07:35:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
