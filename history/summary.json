@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tw.stock.yahoo.com.ico",
     "slug": "yahoo",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -122,18 +122,19 @@
     "url": "https://www.momoshop.com.tw/main/Main.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.momoshop.com.tw.ico",
     "slug": "momo",
-    "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.33%",
+    "uptimeYear": "99.34%",
     "time": 4888,
     "timeDay": 1104,
     "timeWeek": 5736,
     "timeMonth": 4339,
-    "timeYear": 4576,
+    "timeYear": 4578,
     "dailyMinutesDown": {
+      "2025-07-16": 0,
       "2025-07-13": 31,
       "2025-05-25": 21,
       "2025-05-15": 41,
@@ -197,8 +198,7 @@
       "2024-07-26": 100,
       "2024-07-25": 48,
       "2024-07-24": 92,
-      "2024-07-23": 41,
-      "2024-07-22": 31
+      "2024-07-23": 41
     }
   }
 ]
