@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1208,
-    "timeDay": 1256,
-    "timeWeek": 1167,
-    "timeMonth": 1235,
+    "timeDay": 1003,
+    "timeWeek": 1155,
+    "timeMonth": 1243,
     "timeYear": 1213,
     "dailyMinutesDown": {
       "2025-04-14": 23
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1881,
-    "timeDay": 1271,
-    "timeWeek": 1538,
-    "timeMonth": 1667,
+    "timeDay": 1272,
+    "timeWeek": 1539,
+    "timeMonth": 1679,
     "timeYear": 1918,
     "dailyMinutesDown": {
       "2025-03-10": 35,
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 301,
-    "timeDay": 405,
-    "timeWeek": 239,
-    "timeMonth": 324,
+    "timeDay": 90,
+    "timeWeek": 242,
+    "timeMonth": 334,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2025-06-28": 17,
@@ -90,10 +90,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 140,
-    "timeDay": 173,
-    "timeWeek": 140,
-    "timeMonth": 152,
+    "time": 141,
+    "timeDay": 294,
+    "timeWeek": 166,
+    "timeMonth": 160,
     "timeYear": 153,
     "dailyMinutesDown": {
       "2024-10-11": 37
@@ -111,10 +111,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 282,
-    "timeDay": 638,
-    "timeWeek": 431,
-    "timeMonth": 272,
-    "timeYear": 283,
+    "timeDay": 324,
+    "timeWeek": 398,
+    "timeMonth": 294,
+    "timeYear": 284,
     "dailyMinutesDown": {}
   },
   {
@@ -123,17 +123,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.momoshop.com.tw.ico",
     "slug": "momo",
     "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.56%",
+    "uptime": "99.70%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "84.63%",
+    "uptimeMonth": "96.34%",
+    "uptimeYear": "99.27%",
     "time": 4561,
-    "timeDay": 630,
-    "timeWeek": 1511,
-    "timeMonth": 4094,
-    "timeYear": 4292,
+    "timeDay": 739,
+    "timeWeek": 1964,
+    "timeMonth": 4280,
+    "timeYear": 4291,
     "dailyMinutesDown": {
+      "2025-08-16": 61,
+      "2025-08-15": 1440,
+      "2025-08-14": 48,
       "2025-07-30": 54,
       "2025-07-13": 31,
       "2025-05-25": 21,
@@ -189,8 +192,7 @@
       "2024-08-28": 24,
       "2024-08-24": 21,
       "2024-08-20": 43,
-      "2024-08-19": 26,
-      "2024-08-16": 22
+      "2024-08-19": 26
     }
   }
 ]
