@@ -104,19 +104,19 @@
     "url": "https://www.bbc.com/news",
     "icon": "https://icons.duckduckgo.com/ip3/www.bbc.com.ico",
     "slug": "bbc",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 285,
-    "timeDay": 168,
-    "timeWeek": 278,
+    "time": 284,
+    "timeDay": 233,
+    "timeWeek": 280,
     "timeMonth": 287,
     "timeYear": 289,
     "dailyMinutesDown": {
-      "2025-12-26": 0
+      "2025-12-26": 11
     }
   },
   {
