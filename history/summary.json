@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
-    "time": 1311,
-    "timeDay": 1352,
-    "timeWeek": 1438,
-    "timeMonth": 1453,
+    "time": 1312,
+    "timeDay": 1445,
+    "timeWeek": 1431,
+    "timeMonth": 1460,
     "timeYear": 1353,
     "dailyMinutesDown": {
       "2026-04-07": 73,
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1771,
-    "timeDay": 1644,
-    "timeWeek": 1595,
-    "timeMonth": 1576,
+    "time": 1768,
+    "timeDay": 1548,
+    "timeWeek": 1569,
+    "timeMonth": 1585,
     "timeYear": 1622,
     "dailyMinutesDown": {
       "2026-01-28": 37,
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 302,
-    "timeDay": 248,
-    "timeWeek": 329,
-    "timeMonth": 310,
+    "timeDay": 305,
+    "timeWeek": 315,
+    "timeMonth": 317,
     "timeYear": 308,
     "dailyMinutesDown": {
       "2025-10-10": 18,
@@ -93,10 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 337,
+    "timeDay": 146,
     "timeWeek": 179,
-    "timeMonth": 190,
-    "timeYear": 180,
+    "timeMonth": 192,
+    "timeYear": 179,
     "dailyMinutesDown": {}
   },
   {
@@ -111,10 +111,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 331,
-    "timeWeek": 265,
-    "timeMonth": 278,
-    "timeYear": 280,
+    "timeDay": 197,
+    "timeWeek": 225,
+    "timeMonth": 279,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   },
   {
@@ -127,12 +127,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.29%",
-    "time": 3130,
-    "timeDay": 410,
-    "timeWeek": 406,
-    "timeMonth": 463,
-    "timeYear": 2796,
+    "uptimeYear": "99.30%",
+    "time": 3125,
+    "timeDay": 357,
+    "timeWeek": 387,
+    "timeMonth": 465,
+    "timeYear": 2752,
     "dailyMinutesDown": {
       "2025-10-19": 57,
       "2025-10-08": 43,
@@ -162,8 +162,7 @@
       "2025-05-01": 20,
       "2025-04-30": 26,
       "2025-04-29": 82,
-      "2025-04-28": 38,
-      "2025-04-27": 64
+      "2025-04-28": 38
     }
   }
 ]
